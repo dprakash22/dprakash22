@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dprakash22" alt="dprakash22" /></a> </p>
 
-- 🔭 I’m currently working on **Music**
+- 🔭 I’m currently working on **Melodify**
 
 - 🌱 I’m currently learning **DSA, Cloud, Backend(Golang)**
 
